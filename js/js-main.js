@@ -1,0 +1,2 @@
+var OnetimeButton=document.getElementById("OnetimeButton");var OnetimePayment=document.getElementById("OnetimePayment");var LifetimeButton=document.getElementById("LifetimeButton");var LifetimePayment=document.getElementById("LifetimePayment");var Index=document.getElementById("Index");
+LifetimeButton.onclick=function(){LifetimePayment.style.display="initial";}
